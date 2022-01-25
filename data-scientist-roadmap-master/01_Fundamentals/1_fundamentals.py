@@ -6,7 +6,7 @@ import numpy as np
 
 # Generate a list of 4 list of 5 random numbers each
 list_of_lists = []
-# Loop the action 4 times
+# Loop the action 4 times 
 for i in range(4):
 	# Generate a list of 5 numbers between 0 and 100 and add this list to [list_of_lists]
 	list_of_lists.append(np.random.randint(low = 0, high = 100, size = 5))
