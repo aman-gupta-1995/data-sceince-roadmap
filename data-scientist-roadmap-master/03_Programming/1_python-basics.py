@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 ''' 1_ Python basics '''
-
+ 
 # Print something  
 print('Hello, world')
 
