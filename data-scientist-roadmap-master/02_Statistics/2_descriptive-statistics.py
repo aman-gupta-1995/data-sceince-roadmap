@@ -12,3 +12,4 @@ dataset_median = np.median(dataset)
 
 # Print results
 print('Mean: {}, median: {}'.format(dataset_mean, dataset_median))
+ 
