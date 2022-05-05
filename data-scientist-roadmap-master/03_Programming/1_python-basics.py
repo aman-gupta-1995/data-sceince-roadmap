@@ -5,7 +5,7 @@
 # Print something  
 print('Hello, world')
 
-# Assign a variable
+# Assign a variable 
 a = 23
 b = 'Hi guys, i\'m a text variable'
 print('This is my variable: {}'.format(b))
