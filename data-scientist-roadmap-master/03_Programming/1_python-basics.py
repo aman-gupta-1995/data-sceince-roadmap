@@ -2,7 +2,7 @@
 
 ''' 1_ Python basics '''
 
-# Print something 
+# Print something  
 print('Hello, world')
 
 # Assign a variable
