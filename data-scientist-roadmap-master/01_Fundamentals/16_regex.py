@@ -4,7 +4,7 @@
 text = 'This module provides regular expression matching operations similar to those found in Perl.'
 
 # import re library
-import re
+import re 
  
 # Substitution of "Perl" by "every languages"   
 new_text = re.sub('Perl', 'every languages', text)   
