@@ -1,7 +1,7 @@
 # 1_ Fundamentals
 
 
-## 1_ Matrices & Algebra fundamentals 
+## 1_ Matrices & Algebra fundamentals  
  
 ### About
 
