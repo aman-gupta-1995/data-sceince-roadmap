@@ -29,7 +29,7 @@ class Perceptron(object):
 
 		# Activation threshold function
 		activation = 0		
-		for i in range(len(row) - 1):
+		for i in range(len(row) - 1): 
 			activation += weights[i] * row[i]
 		activation += self.bias
 		# Return class
