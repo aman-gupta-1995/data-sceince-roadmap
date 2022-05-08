@@ -7,7 +7,7 @@ text = 'This module provides regular expression matching operations similar to t
 import re
  
 # Substitution of "Perl" by "every languages" 
-new_text = re.sub('Perl', 'every languages', text) 
+new_text = re.sub('Perl', 'every languages', text)  
 print(new_text)  
   
 # Searching for capitals letters in the text
