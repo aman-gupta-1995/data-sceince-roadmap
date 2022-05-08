@@ -14,6 +14,6 @@ print(new_text)
 new_text = re.findall('[A-Z]', text)
 print(new_text)
 
-# Test if a word is in the text or not
+# Test if a word is in the text or not 
 new_text = re.match('.*regular.*', text)
 print(new_text)
