@@ -9,7 +9,7 @@ import re
 # Substitution of "Perl" by "every languages"   
 new_text = re.sub('Perl', 'every languages', text)    
 print(new_text)    
-    
+     
 # Searching for capitals letters in the text 
 new_text = re.findall('[A-Z]', text)
 print(new_text)
