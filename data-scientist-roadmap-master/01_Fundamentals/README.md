@@ -3,7 +3,7 @@
 
 ## 1_ Matrices & Algebra fundamentals  
  
-### About
+### About 
 
 In mathematics, a matrix is a __rectangular array of numbers, symbols, or expressions, arranged in rows and columns__. A matrix could be reduced as a submatrix of a matrix by deleting any collection of rows and/or columns.
 
