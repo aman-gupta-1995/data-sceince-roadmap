@@ -3,7 +3,7 @@
 ''' 1_ Python basics '''
  
 # Print something  
-print('Hello, world') 
+print('Hello, world')  
 
 # Assign a variable  
 a = 23
