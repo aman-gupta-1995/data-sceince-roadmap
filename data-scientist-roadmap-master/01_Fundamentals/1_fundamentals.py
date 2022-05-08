@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
  
-import numpy as np  
+import numpy as np   
 
 
 # Generate a list of 4 list of 5 random numbers each
