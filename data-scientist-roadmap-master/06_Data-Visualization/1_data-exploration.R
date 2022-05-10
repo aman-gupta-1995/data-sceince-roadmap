@@ -1,7 +1,7 @@
 #####################
 # To execute line by line in Rstudio, select it (hightlight)
 # Press Ctrl+Enter
-
+ 
 # Iris is an array of values examples coming with R. 
 data <- iris  
 # This is equal to :  
