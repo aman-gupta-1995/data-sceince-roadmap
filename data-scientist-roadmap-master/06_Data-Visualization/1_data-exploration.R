@@ -7,7 +7,7 @@ data <- iris
 # This is equal to :  
 data = iris 
 # To print it: Sepal.Length Sepal.Width Petal.Length Petal.Width    Species
-show(data) 
+show(data)  
 
 # Histogram
 column = data[,1]
