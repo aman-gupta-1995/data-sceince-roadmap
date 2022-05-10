@@ -4,7 +4,7 @@
 
 ## 2_ Named Entity Recognition
 
-## 3_ Text Analysis 
+## 3_ Text Analysis  
    
 ## 4_ UIMA   
  
