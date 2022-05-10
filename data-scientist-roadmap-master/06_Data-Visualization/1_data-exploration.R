@@ -3,7 +3,7 @@
 # Press Ctrl+Enter
 
 # Iris is an array of values examples coming with R.
-data <- iris
+data <- iris 
 # This is equal to : 
 data = iris 
 # To print it: Sepal.Length Sepal.Width Petal.Length Petal.Width    Species
