@@ -7,7 +7,7 @@
 ## 3_ Text Analysis 
    
 ## 4_ UIMA   
-
+ 
 ## 5_ Term Document matrix 
  
 ## 6_ Term frequency and Weight
