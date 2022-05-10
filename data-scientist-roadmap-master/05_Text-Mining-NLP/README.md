@@ -5,7 +5,7 @@
 ## 2_ Named Entity Recognition
 
 ## 3_ Text Analysis
- 
+  
 ## 4_ UIMA  
 
 ## 5_ Term Document matrix
