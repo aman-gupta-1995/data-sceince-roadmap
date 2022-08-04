@@ -6,7 +6,7 @@
  
 ## 3_ R, Rstudio, Rattle  
    
-## 4_ Weka, Knime, RapidMiner
+## 4_ Weka, Knime, RapidMiner 
 
 ## 5_ Hadoop dist of choice
  
