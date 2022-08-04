@@ -5,7 +5,7 @@
 ## 2_ Java, Python 
 
 ## 3_ R, Rstudio, Rattle   
-  
+   
 ## 4_ Weka, Knime, RapidMiner
 
 ## 5_ Hadoop dist of choice
