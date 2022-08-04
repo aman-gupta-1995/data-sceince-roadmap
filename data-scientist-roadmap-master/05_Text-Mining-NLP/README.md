@@ -2,7 +2,7 @@
 
 ## 1_ Corpus
 
-## 2_ Named Entity Recognition
+## 2_ Named Entity Recognition 
 
 ## 3_ Text Analysis  
     
