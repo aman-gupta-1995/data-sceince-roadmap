@@ -2,7 +2,7 @@
  
 ## 1_ What is ML ?
 
-### Definition
+### Definition 
 
 Machine Learning is part of the Artificial Intelligences study. It concerns the conception, devloppement and implementation of sophisticated methods, allowing a machine to achieve really hard tasks, nearly impossible to solve with classic algorithms.
 
