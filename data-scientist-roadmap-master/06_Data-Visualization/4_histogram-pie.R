@@ -1,4 +1,4 @@
-# Two plot on the same window
+# Two plot on the same window 
 par(mfrow = c(1,2))
 # Histogram
 data <- iris
