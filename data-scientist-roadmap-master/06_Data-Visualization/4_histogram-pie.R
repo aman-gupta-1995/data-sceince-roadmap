@@ -1,6 +1,6 @@
 # Two plot on the same window
 par(mfrow = c(1,2))   
-# Histogram 
+# Histogram
 data <- iris
 hist(data[,2], main = "histogram about sepal width", xlab = "sepal width", ylab = "Frequency")
 # Pie chart
