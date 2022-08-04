@@ -17,7 +17,7 @@ Machine learning mostly consists of three algorithms:
 * Financial analysis
 * Documents classification
 * Music generation
-* Robotics ...
+* Robotics ... 
 
 ## 2_ Numerical var
 
