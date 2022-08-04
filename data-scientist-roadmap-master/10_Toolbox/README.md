@@ -9,7 +9,7 @@
 ## 4_ Weka, Knime, RapidMiner
 
 ## 5_ Hadoop dist of choice
-
+ 
 ## 6_ Spark, Storm
 
 ## 7_ Flume, Scibe, Chukwa
