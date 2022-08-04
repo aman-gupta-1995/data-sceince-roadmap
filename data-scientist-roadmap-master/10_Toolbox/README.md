@@ -2,7 +2,7 @@
 
 ## 1_ MS Excel with Analysis toolpack
 
-## 2_ Java, Python 
+## 2_ Java, Python  
  
 ## 3_ R, Rstudio, Rattle   
    
