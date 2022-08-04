@@ -1,5 +1,5 @@
 # Two plot on the same window
-par(mfrow = c(1,2))  
+par(mfrow = c(1,2)) 
 # Histogram
 data <- iris
 hist(data[,2], main = "histogram about sepal width", xlab = "sepal width", ylab = "Frequency")
