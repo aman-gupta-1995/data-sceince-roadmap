@@ -1,7 +1,7 @@
 # 5_ Text Mining
 
 ## 1_ Corpus 
-
+ 
 ## 2_ Named Entity Recognition 
 
 ## 3_ Text Analysis  
