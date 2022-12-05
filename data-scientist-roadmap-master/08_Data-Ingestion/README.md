@@ -1,7 +1,5 @@
 # 8_ Data Ingestion
 
-## 1_ Summary of data formats
- 
 ## 2_ Data discovery
  
 ## 3_ Data sources & Acquisition 
