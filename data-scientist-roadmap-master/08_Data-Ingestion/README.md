@@ -5,7 +5,7 @@
 
 ## 4_ Data integration
 
-## 5_ Data fusion
+## 5_ Data fusion 
 
 ## 6_ Transformation & enrichment
 
