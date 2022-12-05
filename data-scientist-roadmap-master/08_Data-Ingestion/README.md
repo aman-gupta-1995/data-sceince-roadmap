@@ -4,7 +4,7 @@
 
 ## 2_ Data discovery
  
-## 3_ Data sources & Acquisition
+## 3_ Data sources & Acquisition 
 
 ## 4_ Data integration
 
