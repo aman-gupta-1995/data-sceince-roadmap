@@ -3,7 +3,7 @@
 
 ## 3_ Data sources & Acquisition
 
-## 4_ Data integration
+## 4_ Data integration 
 
 ## 5_ Data fusion 
  
