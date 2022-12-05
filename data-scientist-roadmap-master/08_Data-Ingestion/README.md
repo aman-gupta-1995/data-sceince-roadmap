@@ -6,7 +6,7 @@
 ## 4_ Data integration
 
 ## 5_ Data fusion 
-
+ 
 ## 6_ Transformation & enrichment
 
 ## 7_ Data survey
